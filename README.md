@@ -8,7 +8,7 @@
 4️⃣ Data Aggregation & Grouping
 5️⃣ Working with Time-Series Data
 6️⃣ Data Transformation
-7️⃣ Data Merging & Joining
+7️⃣ Data Merging 
 8️⃣ Performance Optimization
 9️⃣ Data Exporting & Storage
 🔟 Data Visualization (Pandas Built-in)
